@@ -47,6 +47,8 @@ He contribuido en las páginas de productos, carrito y detalle,
 validaciones de formularios y ajustes para dispositivos móviles.
 La siguiente etapa contempla migrar la interfaz a React.
 
+[Ver repositorio del equipo](https://github.com/JeannetteFigueroa/Offline_Archive)
+
 ## Contacto
 
 Puedes contactarme a través de
